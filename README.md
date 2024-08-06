@@ -112,15 +112,8 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
-## HELPERS = WASI
+## Community and Support
 
-## Support
+Join the official WhatsApp group for X-Asena to get support, ask questions, and interact with other users:
 
-SUPPORT CHANNEL: <a href= "(https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-
-### Please Give One Star ✨ & [follow me notify my updates 💗](https://github.com/DeeCeeXxx)
-<b>Version -> 2.0.0</b>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-  
+[![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)(https://whatsapp.com/channel/0029VaeRru3ADTOEKPCPom0L)

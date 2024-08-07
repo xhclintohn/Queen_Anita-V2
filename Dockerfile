@@ -14,6 +14,11 @@ WORKDIR /root/DeeCeeXxx/
 
 
 COPY package.json .
+
+# Clear npm cache and remove node_modules directories
+RUN npm cache clean --force
+RUN rm -rf ~/node_modules 
+
 RUN npm install pm2 -g
 RUN npm install --legacy-peer-deps
 
